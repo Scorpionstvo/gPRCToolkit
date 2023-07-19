@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">GRPCToolkit</string>
+    <string name="delete">Delete</string>
+    <string name="update">Update</string>
+    <string name="read">Read</string>
+    <string name="create">Create</string>
+    <string name="name">Name</string>
+    <string name="object_not_created">Object was not created</string>
+    <string name="object_update_success">Object updated successfully!</string>
+    <string name="unsuccess_message">Something went wrong</string>
+    <string name="input_empty_error_message">Write name</string>
+</resources>
